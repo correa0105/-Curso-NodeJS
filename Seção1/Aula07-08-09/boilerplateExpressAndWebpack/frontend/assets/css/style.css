@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: vh;
+    background: cadetblue;
+}
+
+section {
+    width: 80%;
+    min-height: 20rem;
+    margin: 10px auto 0 auto;
+    background: #ffffff;
+    border-radius: 15px;
+}
+
+section h1 {
+    text-align: center;
+}

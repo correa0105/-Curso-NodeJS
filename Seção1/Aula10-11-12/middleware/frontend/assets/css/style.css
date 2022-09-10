@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: vh;
+    background: cadetblue;
+}
+
+section {
+    width: 80%;
+    min-height: 20rem;
+    margin: 10px auto 0 auto;
+    background: #ffffff;
+    border-radius: 15px;
+}
+
+section h1 {
+    padding: 1rem 0;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    gap: 15px;
+}
